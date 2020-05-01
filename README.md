@@ -1,2 +1,2 @@
-# java
-Everything in java (syntax, design, application, system..etc)
+# 자바에 대한 공부와 이해를 저장해놓는 공간
+
